@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Installalogs</string>
+    <string name="logs">Протоколы</string>
+    <string name="configuration">Конфигурация</string>
+    <string name="theme_configuration">Конфигурация темы</string>
+    <string name="force_background_rescans">Принудительные фоновое сканирование</string>
+    <string name="every_minutes">Каждые (минуты)</string>
+    <string name="about">О программе</string>
+    <string name="search">Поиск</string>
+    <string name="manual_scan">ручное сканирование</string>
+    <string name="scanning">Сканирование</string>
+    <string name="scanning_deleted_application">Сканирование удаленного приложения</string>
+    <string name="detected_changes">Обнаруженные изменения</string>
+    <string name="detected_new_installation">Обнаруженные новые установки</string>
+    <string name="no_change_at">Нет изменений в</string>
+    <string name="error">Ошибка</string>
+    <string name="service_error">ошибка сервиса</string>
+    <string name="delete_logs">удалить протоколы</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="yes_delete_logs">Да, удалить протоколы</string>
+    <string name="no_dont_delete_logs">Нет, не удалять протоколы</string>
+    <string name="deleted">Удалено.</string>
+    <string name="new_installation">Новая установка</string>
+    <string name="new_installation_notification">Уведомление о новой установке</string>
+    <string name="no_change">Нет изменений</string>
+    <string name="no_change_notification">0 уведомление об изменении</string>
+    <string name="Service_error">Ошибка сервиса</string>
+    <string name="Service_error_notification">Уведомление об ошибке сервиса</string>
+    <string name="scan_process">Процесс сканирования</string>
+    <string name="scan_process_in_background">Процесс сканирования в фоновом режиме</string>
+    <string name="clean_process">Процесс очистки</string>
+    <string name="clean_process_in_background">Процесс очистки в фоновом режиме</string>
+    <string name="packageName">Имя пакета</string>
+    <string name="packageName">Имя пакета</string>
+    <string name="versionCode">Код версии</string>
+    <string name="versionName">Название версии</string>
+    <string name="date">Дата</string>
+    <string name="Close">Закрыть</string>
+    <string name="copy_hash">Копировать хэш</string>
+    <string name="select_hash">Выбрать хэш</string>
+    <string name="select_sha">Выбрать SHA</string>
+    <string name="more">Больше</string>
+    <string name="md5">MD5</string>
+    <string name="sha">SHA-?</string>
+    <string name="sha1">SHA-1</string>
+    <string name="sha256">SHA-256</string>
+    <string name="sha512">SHA-512</string>
+    <string name="copied">Скопировано.</string>
+    <string name="New">[Новое!]</string>
+    <string name="Modified">[Изменено]</string>
+    <string name="Deleted">[Удалено]</string>
+    <string name="license">Лицензия</string>
+    <string name="version">Версия</string>
+    <string name="debug">Отладка</string>
+    <string name="log_start_time_stamp">Время начала протокола</string>
+    <string name="loading">Загрузка</string>
+    <string name="this_program_is_free_software">
+    Данное ПО является свободным: вы можете распространять и/или изменять
+    его в соответствии с условиями GNU General Public License, опубликованной
+    Фондом свободного ПО, либо версии 3 лицензии, либо
+    (по вашему выбору) любой следующей версии.
+
+    Данное ПО распространяется в надежде, что оно окажется полезным,
+    но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без подразумеваемых гарантий
+    товарной ценности или пригодности для конкретной цели. См.
+    GNU General Public License для получения дополнительных сведений.
+	</string>
+	
+</resources>
